@@ -31,13 +31,9 @@ Open the index.html file in your browser to use the app.
 
 Basic Implementation
 
-
 The application consists of:
-
 HTML: Structure of the app 
-
 CSS: Styling for a clean and responsive user interface.
-
 JavaScript: Handles user input, fetches QR code using an API, and displays it dynamically.
 
 Screenshot
