@@ -1,4 +1,6 @@
 QR Code Generator
+
+
 A simple and responsive QR Code Generator web application that allows users to generate QR codes by entering a text or URL. It leverages a third-party API to generate the QR code dynamically.
 
 Project Description
@@ -33,6 +35,8 @@ Screenshot
 
 
 How It Works
+
+
 Enter a text or URL into the input box.
 Click the "Generate QR Code" button.
 The application fetches the QR code from the API and displays it.
