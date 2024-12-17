@@ -12,7 +12,7 @@ Reset on Input Change: Automatically hides the QR code when new input is entered
 Setup Instructions
 
 Clone the repository:
-git clone 
+git clone: https://github.com/Aksalva/QR-code.git 
 Open the project directory:
 Open the index.html file in your browser to use the app.
 
