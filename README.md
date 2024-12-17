@@ -26,6 +26,9 @@ JavaScript: Handles user input, fetches QR code using an API, and displays it dy
 
 Screenshot
 
+![Capture](https://github.com/user-attachments/assets/4fa8d1ab-efd3-4e1f-9ec8-91ec62565c49)
+
+
 
 
 
