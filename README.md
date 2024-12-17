@@ -4,14 +4,20 @@ QR Code Generator
 A simple and responsive QR Code Generator web application that allows users to generate QR codes by entering a text or URL. It leverages a third-party API to generate the QR code dynamically.
 
 Project Description
+
+
 The QR Code Generator provides a quick way to generate QR codes based on user input. Whether it’s a URL or plain text, this tool generates a shareable and scannable QR code in seconds.
 
 Features Overview
+
+
 Dynamic QR Code Generation: Users can generate a QR code by entering any text or URL.
 Responsive Design: Works seamlessly across all devices.
 Interactive UI: User-friendly design with visual feedback during QR code generation.
 Reset on Input Change: Automatically hides the QR code when new input is entered.
+
 Setup Instructions
+
 
 Clone the repository:
 git clone: https://github.com/Aksalva/QR-code.git 
@@ -19,6 +25,7 @@ Open the project directory:
 Open the index.html file in your browser to use the app.
 
 Basic Implementation
+
 
 The application consists of:
 HTML: Structure of the app 
