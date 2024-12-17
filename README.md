@@ -12,8 +12,11 @@ Features Overview
 
 
 Dynamic QR Code Generation: Users can generate a QR code by entering any text or URL.
+
 Responsive Design: Works seamlessly across all devices.
+
 Interactive UI: User-friendly design with visual feedback during QR code generation.
+
 Reset on Input Change: Automatically hides the QR code when new input is entered.
 
 Setup Instructions
@@ -21,15 +24,20 @@ Setup Instructions
 
 Clone the repository:
 git clone: https://github.com/Aksalva/QR-code.git 
+
 Open the project directory:
 Open the index.html file in your browser to use the app.
+
 
 Basic Implementation
 
 
 The application consists of:
+
 HTML: Structure of the app 
+
 CSS: Styling for a clean and responsive user interface.
+
 JavaScript: Handles user input, fetches QR code using an API, and displays it dynamically.
 
 Screenshot
@@ -45,6 +53,8 @@ How It Works
 
 
 Enter a text or URL into the input box.
+
 Click the "Generate QR Code" button.
 The application fetches the QR code from the API and displays it.
+
 Start typing in the input field again to reset the QR code.
