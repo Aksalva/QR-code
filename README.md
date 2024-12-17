@@ -12,8 +12,7 @@ Reset on Input Change: Automatically hides the QR code when new input is entered
 Setup Instructions
 
 Clone the repository:
-git clone https://github.com/your-username/qr-code-generator.git
-
+git clone 
 Open the project directory:
 Open the index.html file in your browser to use the app.
 
@@ -28,6 +27,7 @@ Screenshot
 
 ![Capture](https://github.com/user-attachments/assets/4fa8d1ab-efd3-4e1f-9ec8-91ec62565c49)
 
+![image](https://github.com/user-attachments/assets/66a363de-4ea7-451b-b51d-173d121c7393)
 
 
 
