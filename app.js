@@ -7,12 +7,12 @@ generateButton.addEventListener('click', () => {
     let qrValue = qrInput.value;
     if (!qrValue) return;
 
-    generateButton.innerHTML = "Generating QR code..."
+    generateButton.innerText = "Generating QR code..."
 
     qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${qrValue}`;
 
     qrImg.addEventListener("load", () => {
-        wrapper.classList.add("active");
+    
         generateButton.innerText = "Generate QR Code";
     })
 
